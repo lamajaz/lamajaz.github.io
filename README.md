@@ -16,9 +16,15 @@ Built with plain HTML, CSS and JavaScript and hosted on GitHub Pages.
 
 ## Assets
 
-- `assets/photo.jpeg` – profile photo
+- `assets/photo-web.jpg` – profile photo
 - `assets/Lama-Jaber-CV.pdf` – downloadable CV
+- `assets/Lama-Jaber-Nevada-FQHC-Campaign-Plan.pdf` – MPH campaign plan linked from the Portfolio page
+- `assets/Lama-Jaber-Medical-Respite-Program-Brief.pdf` – MPH program brief linked from the Portfolio page
 
 ## Adding a portfolio project
 
-Copy the commented card template at the top of `portfolio.html`, fill it in, and link "View code" to the project folder in the data science portfolio repository.
+Copy one of the cards under "Data science projects" in `portfolio.html`, fill it in, and link "View project" to the project folder in the data science portfolio repository.
+
+## Copyright
+
+© 2026 Lama Jaber. All rights reserved. The text, photos and CV on this site may not be copied or reused without permission.
