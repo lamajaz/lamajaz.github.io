@@ -1,4 +1,4 @@
-const greetings = ['Welcome', 'مرحبا', 'Bienvenidos', 'Bienvenue'];
+const greetings = ['Welcome!', 'مرحبا نَوَّرْت', '¡Bienvenidos al lugar donde mi historia y mi trabajo se encuentran!', 'Merci d\'être ici'];
 const greetingEl = document.getElementById('greeting');
 
 if (greetingEl) {
